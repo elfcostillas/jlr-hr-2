@@ -20,6 +20,7 @@ const routes = [
 ]
 
 export default createRouter ({
+    
     history : createWebHistory(),
     routes
 })

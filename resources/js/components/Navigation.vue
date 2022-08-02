@@ -7,7 +7,8 @@
         <div class="container-fluid">
             <!-- <a href="#" class="navbar-brand">JLR</a> -->
             <ul class="navbar-nav">
-                
+                <router-link :to="{ name: 'dashboard' }">Home</router-link>
+                <router-link :to="{ name: 'employee' }">Employee</router-link>
             </ul>
         </div>    
 
