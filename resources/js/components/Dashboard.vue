@@ -1,5 +1,4 @@
 <template>
-    im the dashboard
     <Navigation> </Navigation>
 </template>
 <script>
